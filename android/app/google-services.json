@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "813824991698",
+    "project_id": "login-344dd",
+    "storage_bucket": "login-344dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813824991698:android:718047876db42f9e28280b",
+        "android_client_info": {
+          "package_name": "com.example.bloodlogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfN79Zuj2NONrEdobo2aDf_9avA-6MXSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
